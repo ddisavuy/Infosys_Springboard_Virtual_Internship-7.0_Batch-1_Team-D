@@ -11,13 +11,19 @@ The project demonstrates how **Data Analytics and Business Intelligence** can be
 🗂️ **Project Files**
 Here’s an overview of the files in this repository:
 
-• **Team_Members_PPT/** – Individual PPT slides for each team member
-• **Supply_Chain_Visibility_System.pbix** – Main Power BI project file
-• **Group_Presentation.pptx** – Group presentation slides
-• **Completion_Report.pdf** – Internship completion report
-• **Dataset/** – Source dataset and related data files
-• **LICENSE** – License file
-• **README.md** – This overview file
+**Team_Members_PPT/** – Individual PPT slides for each team member
+
+**Supply_Chain_Visibility_System.pbix** – Main Power BI project file
+
+**Group_Presentation.pptx** – Group presentation slides
+
+ **Completion_Report.pdf** – Internship completion report
+ 
+**Dataset/** – Source dataset and related data files
+
+ **LICENSE** – License file
+ 
+ **README.md** – This overview file
 
 🚀 **Key Features**
 
