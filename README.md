@@ -1,5 +1,5 @@
-<<<<<<< HEAD
- 📊 **Supply Chain Visibility System with Optimization Analytics**
+ 
+ 📊 **Supply Chain Visibility System with Optimization Analytics Group 1**
 
 🚀 **Project Overview**
 This project was completed as part of our internship with **Infosys Springboard Virtual Internship 7.0**.
@@ -115,9 +115,13 @@ By leveraging **Microsoft Power BI, Power Query, DAX, Microsoft Excel, and Micro
 💬 **Contributors**
 
 • **Uppala Bhavya Sri**
+
 • **V. Charita Sree**
+
 • **Velpuri Sai Rohitha**
+
 • **Venkata Puneeth Kothapalli**
+
 • **Yuvasree P**
 
 **Year:** 2026
@@ -130,6 +134,5 @@ By leveraging **Microsoft Power BI, Power Query, DAX, Microsoft Excel, and Micro
 • All data/resources used in this project are intended for **educational and demonstration purposes**.
 • The project is developed as an **internship-based academic/industry-oriented Data Analytics project**.
 
-=======
- Project work, datasets, preprocessing, data analysis, and interactive Power BI dashboards developed as part of the Infosys Springboard Virtual Internship 7.0 - Batch -1, focused on Supply Chain Visibility and Optimization.
->>>>>>> 6423e40 (Remove temporary README file)
+ 
+ 
