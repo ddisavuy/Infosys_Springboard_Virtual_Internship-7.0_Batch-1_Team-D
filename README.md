@@ -252,6 +252,4 @@ The project demonstrates the practical application of industry-oriented **Data A
 - All data and resources used in this project are intended for **educational and demonstration purposes**.
 - The project was developed as an **internship-based academic and industry-oriented Data Analytics project**.
 
----
 
-⭐ **If you find this project useful, consider giving the repository a star!**
